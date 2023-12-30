@@ -1,0 +1,5 @@
+# Ignore Titanic virtual environment files
+/titanic/*
+
+# Ignore code workspace
+titanic.code-workspace
